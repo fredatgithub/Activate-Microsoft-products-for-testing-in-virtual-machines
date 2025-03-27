@@ -1,3 +1,6 @@
+## Note: This is very outdated, just use https://massgrave.dev/ and https://github.com/massgravel/Microsoft-Activation-Scripts for a more comprehensive activation. 
+
+
 # DISCLAIMER!!!
 <sub>Unfortunately, since this could actually get me into legal trouble, I have to include this at the top :/<sub>
   
