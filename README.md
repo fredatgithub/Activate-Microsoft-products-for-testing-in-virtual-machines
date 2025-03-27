@@ -1,4 +1,4 @@
-## Note: This is very outdated, just use https://massgrave.dev/ and https://github.com/massgravel/Microsoft-Activation-Scripts for a more comprehensive activation. 
+## Note: This is quite outdated, just use https://massgrave.dev/ and https://github.com/massgravel/Microsoft-Activation-Scripts for a more comprehensive activation. 
 
 
 # DISCLAIMER!!!
